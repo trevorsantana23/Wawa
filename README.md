@@ -1,3 +1,3 @@
 # Wawa
-WawaDay\n
+WawaDay
 "Happy Birthday"
